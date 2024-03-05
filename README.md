@@ -24,6 +24,6 @@ Celem projektu jest analiza wpływu zmiennych objaśniających na ceny domów na
 - Python
 - Jupyter Notebook
 - Biblioteki Pythona: pandas, numpy, matplotlib, seaborn, scikit-learn
-- Databricks
+- Databricks 
 
 
